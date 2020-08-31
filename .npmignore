@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+deploy
+private
+.idea
+src
+test
+.env
+.prettierignore
+.eslintrc
+tsconfig.json
+jest.config.js
+webpack.config.js
+*.iml
